@@ -153,10 +153,10 @@ const App = () => {
 const styles = {
   container: {
     fontFamily: "'Arial', sans-serif",
-    margin: 0,
+    margin: "0 auto",
     padding: 0,
     maxWidth: "1200px",
-    margin: "auto",
+    // margin: ,
   },
   header: {
     display: "flex",
